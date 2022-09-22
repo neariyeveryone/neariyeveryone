@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Kilian, I'm a Software Developer <br>and I am currently working on a cooking blog
+My name is Kilian, I'm a Software Developer <br>and I am currently working on a cooking blog and my very own Programming Language
 
 
 # 💻 Tech Stack:
